@@ -1,0 +1,2 @@
+Hola Bienvenidos!
+En este archivo encontraras aplicaciones de buenas practicas utilizadas en el repositorio
