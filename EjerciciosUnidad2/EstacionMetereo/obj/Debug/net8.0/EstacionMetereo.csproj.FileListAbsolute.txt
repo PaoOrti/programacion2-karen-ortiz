@@ -1,0 +1,36 @@
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.exe
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.deps.json
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.runtimeconfig.json
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.pdb
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.AssemblyInfoInputs.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.AssemblyInfo.cs
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\refint\EstacionMetereo.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.pdb
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.genruntimeconfig.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\ref\EstacionMetereo.dll
+C:\Users\Usuario\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.dll
+C:\Users\Usuario\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\refint\EstacionMetereo.dll
+C:\Users\Usuario\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Nueva carpeta\Unidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.pdb
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.AssemblyInfoInputs.cache
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.AssemblyInfo.cs
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.sourcelink.json
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.dll
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\refint\EstacionMetereo.dll
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.pdb
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.exe
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.deps.json
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.runtimeconfig.json
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.dll
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\bin\Debug\net8.0\EstacionMetereo.pdb
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\EstacionMetereo.genruntimeconfig.cache
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\EjerciciosUnidad2\EstacionMetereo\obj\Debug\net8.0\ref\EstacionMetereo.dll
