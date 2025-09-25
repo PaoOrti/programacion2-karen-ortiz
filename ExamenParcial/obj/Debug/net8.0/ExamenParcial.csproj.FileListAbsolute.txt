@@ -1,0 +1,15 @@
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\bin\Debug\net8.0\ExamenParcial.exe
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\bin\Debug\net8.0\ExamenParcial.deps.json
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\bin\Debug\net8.0\ExamenParcial.runtimeconfig.json
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\bin\Debug\net8.0\ExamenParcial.dll
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\bin\Debug\net8.0\ExamenParcial.pdb
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ExamenParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ExamenParcial.AssemblyInfoInputs.cache
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ExamenParcial.AssemblyInfo.cs
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ExamenParcial.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ExamenParcial.sourcelink.json
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ExamenParcial.dll
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\refint\ExamenParcial.dll
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ExamenParcial.pdb
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ExamenParcial.genruntimeconfig.cache
+C:\Users\ortiz\Documents\programacion2-Karen-Ortiz\ExamenParcial\SistemaGestionAcademica\ExamenParcial\obj\Debug\net8.0\ref\ExamenParcial.dll
