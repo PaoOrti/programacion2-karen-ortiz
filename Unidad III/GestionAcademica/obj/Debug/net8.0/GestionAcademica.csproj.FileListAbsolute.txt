@@ -1,0 +1,14 @@
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\bin\Debug\net8.0\GestionAcademica.exe
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\bin\Debug\net8.0\GestionAcademica.deps.json
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\bin\Debug\net8.0\GestionAcademica.runtimeconfig.json
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\bin\Debug\net8.0\GestionAcademica.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\bin\Debug\net8.0\GestionAcademica.pdb
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\GestionAcademica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\GestionAcademica.AssemblyInfoInputs.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\GestionAcademica.AssemblyInfo.cs
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\GestionAcademica.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\GestionAcademica.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\refint\GestionAcademica.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\GestionAcademica.pdb
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\GestionAcademica.genruntimeconfig.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\GestionAcademica\obj\Debug\net8.0\ref\GestionAcademica.dll
