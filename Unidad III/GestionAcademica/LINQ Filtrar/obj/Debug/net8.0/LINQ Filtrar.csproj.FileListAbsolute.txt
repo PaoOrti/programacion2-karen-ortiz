@@ -1,0 +1,14 @@
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\bin\Debug\net8.0\LINQ Filtrar.exe
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\bin\Debug\net8.0\LINQ Filtrar.deps.json
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\bin\Debug\net8.0\LINQ Filtrar.runtimeconfig.json
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\bin\Debug\net8.0\LINQ Filtrar.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\bin\Debug\net8.0\LINQ Filtrar.pdb
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\LINQ Filtrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\LINQ Filtrar.AssemblyInfoInputs.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\LINQ Filtrar.AssemblyInfo.cs
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\LINQ Filtrar.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\LINQ Filtrar.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\refint\LINQ Filtrar.dll
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\LINQ Filtrar.pdb
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\LINQ Filtrar.genruntimeconfig.cache
+C:\Users\ortiz\OneDrive - Universidad Panamericana UPANA\Clases\Segundo año\4to semestre\Programacion II\Unidad III\LINQ Filtrar\obj\Debug\net8.0\ref\LINQ Filtrar.dll
